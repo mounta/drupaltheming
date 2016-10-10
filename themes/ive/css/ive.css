@@ -1,0 +1,21 @@
+#header {
+    background-color: white;
+    background-image: none;
+}
+#header {
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+.site-branding__name {
+    font-size: 2rem;
+}
+
+.site-branding__text a {
+    color: orange;
+}
+
+#drupal8 {
+	background-color: black;
+
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+}

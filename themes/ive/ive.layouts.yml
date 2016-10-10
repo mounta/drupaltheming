@@ -1,0 +1,15 @@
+four_squares:
+  label: Four Squares
+  category: Ive layouts
+  template: templates/four_squares_layout.html.twig
+  icon: icons/four_squares.png
+  css: css/four_squares.css
+  regions:
+    bloc_left_1:
+      label: Bloc Left 1
+    bloc_right_1:
+      label: Bloc Right 1
+    bloc_left_2:
+      label: Bloc Left 2
+    bloc_right_2:
+      label: Bloc Right 2

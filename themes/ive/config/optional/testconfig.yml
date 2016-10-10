@@ -1,0 +1,12 @@
+uuid: 7ef630d8-5587-4f5c-a7a5-e8b121d765d9
+langcode: en
+status: true
+dependencies: {  }
+name: testtheming
+label: 'test theming'
+effects:
+  c8f69d2e-3c24-4941-bae4-3acb462495b0:
+    uuid: c8f69d2e-3c24-4941-bae4-3acb462495b0
+    id: image_desaturate
+    weight: 1
+    data: {  }

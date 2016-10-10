@@ -1,0 +1,40 @@
+/**
+ * @file
+ * Bartik layout styling.
+ */
+
+/**
+ * Container
+ */
+.four_squares {
+  width: 600px;
+  height: 600px;
+  border-style: solid;
+}
+
+.row {
+  width: auto;
+  height: 45%;
+  border-style: solid;
+
+}
+
+
+.bloc_left {
+  width: 45%;
+  height: auto;
+  float:left;
+  border-style: solid;
+
+}
+
+.bloc_right {
+  width: 45%;
+  height: auto;
+  float: right;
+  border-style: solid;
+
+}
+/**
+ * Main
+ */
